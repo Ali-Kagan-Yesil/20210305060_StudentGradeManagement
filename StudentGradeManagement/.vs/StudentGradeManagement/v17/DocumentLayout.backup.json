@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8848BEE3-CEF4-4F52-99F6-9EC93781E275}|StudentGradeManagement.UI\\StudentGradeManagement.UI.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8848BEE3-CEF4-4F52-99F6-9EC93781E275}|StudentGradeManagement.UI\\StudentGradeManagement.UI.csproj|solutionrelative:studentgrademanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\Migrations\\20250430214030_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentGradeManagement.DataAccessLayer\\Migrations\\20250430214030_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7CA1C5-24F0-4458-A536-44EFA9318ABF}|StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.dataaccesslayer\\context\\studentgradedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7CA1C5-24F0-4458-A536-44EFA9318ABF}|StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj|solutionrelative:studentgrademanagement.dataaccesslayer\\context\\studentgradedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7CA1C5-24F0-4458-A536-44EFA9318ABF}|StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.dataaccesslayer\\studentgrademanagement.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C7CA1C5-24F0-4458-A536-44EFA9318ABF}|StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj|solutionrelative:studentgrademanagement.dataaccesslayer\\studentgrademanagement.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7CA1C5-24F0-4458-A536-44EFA9318ABF}|StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7CA1C5-24F0-4458-A536-44EFA9318ABF}|StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj|solutionrelative:studentgrademanagement.dataaccesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.businesslayer\\studentgrademanagement.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|solutionrelative:studentgrademanagement.businesslayer\\studentgrademanagement.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.businesslayer\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|solutionrelative:studentgrademanagement.businesslayer\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.businesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|solutionrelative:studentgrademanagement.businesslayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.businesslayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BC8360A-24FD-417F-AF78-4A3757706C62}|StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj|solutionrelative:studentgrademanagement.businesslayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8848BEE3-CEF4-4F52-99F6-9EC93781E275}|StudentGradeManagement.UI\\StudentGradeManagement.UI.csproj|c:\\users\\al\u0130\\desktop\\studentgrademanagement\\studentgrademanagement\\studentgrademanagement.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8848BEE3-CEF4-4F52-99F6-9EC93781E275}|StudentGradeManagement.UI\\StudentGradeManagement.UI.csproj|solutionrelative:studentgrademanagement.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.UI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.UI\\Program.cs",
+              "RelativeToolTip": "StudentGradeManagement.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:46:05.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250430214030_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\Migrations\\20250430214030_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.DataAccessLayer\\Migrations\\20250430214030_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\Migrations\\20250430214030_InitialCreate.cs",
+              "RelativeToolTip": "StudentGradeManagement.DataAccessLayer\\Migrations\\20250430214030_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:40:30.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentGradeDb.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\Context\\StudentGradeDb.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.DataAccessLayer\\Context\\StudentGradeDb.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\Context\\StudentGradeDb.cs",
+              "RelativeToolTip": "StudentGradeManagement.DataAccessLayer\\Context\\StudentGradeDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:34:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentGradeManagement.DataAccessLayer",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj",
+              "RelativeToolTip": "StudentGradeManagement.DataAccessLayer\\StudentGradeManagement.DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T21:34:15.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentGradeManagement.BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj",
+              "RelativeToolTip": "StudentGradeManagement.BusinessLayer\\StudentGradeManagement.BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T21:33:43.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\StudentManager.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.BusinessLayer\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\StudentManager.cs",
+              "RelativeToolTip": "StudentGradeManagement.BusinessLayer\\StudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:34:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.BusinessLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\Program.cs",
+              "RelativeToolTip": "StudentGradeManagement.BusinessLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:34:00.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.BusinessLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.BusinessLayer\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StudentGradeManagement.BusinessLayer\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:33:58.486Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.DataAccessLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.DataAccessLayer\\Program.cs",
+              "RelativeToolTip": "StudentGradeManagement.DataAccessLayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:33:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StudentGradeManagement.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\AL\u0130\\Desktop\\StudentGradeManagement\\StudentGradeManagement\\StudentGradeManagement.UI\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StudentGradeManagement.UI\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:28:38.332Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
